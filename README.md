@@ -10,7 +10,7 @@
 
 Hi, I'm Naman Jain! I'm an aspiring robotics engineer and AI/ML enthusiast with a passion for creating impactful technologies. Right now, I'm focusing on **Generative Adversarial Networks (GANs)**, exploring how machines can generate and manipulate data in creative ways.
 
-In addition to AI and robotics, I’m involved in projects like **micromouse** and **gesture recognition systems**, blending hardware and software. I’m also interested in **space exploration** (currently preparing for a mission to the dark side of the moon!), **finance**, and **trading strategies**.
+In addition to AI and robotics, I’m involved in projects like **micromouse** and **gesture recognition systems**, blending hardware and software. I’m also interested in ,**finance**, and **algorithmic trading strategies**.
 
 When I'm not coding or building robots, you'll find me rocking out on my **guitar** (a Metallica and Guns N' Roses fan) or binge-watching **anime**. Always excited to connect with like-minded people, share knowledge, and push the limits of what's possible with AI and embedded systems!
 
