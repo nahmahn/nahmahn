@@ -22,9 +22,6 @@
   When I'm not coding or building robots, you'll find me rocking out on my guitar (a Metallica and Guns N' Roses fan) or binge-watching anime. Always excited to connect with like-minded people, share knowledge, and push the limits of what's possible with AI and embedded systems!
 </p>
 
-<p>📫 How to reach me: <b>namjain06@gmail.com</b></p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
