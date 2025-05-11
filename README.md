@@ -5,7 +5,14 @@
 
 - 🔭 I’m currently working on [NxtDevs](https://github.com/Epic021/NxtDevs_Project-)
 
-- 🙋‍♂️ About me **Hey, I'm Naman Jain! I'm an aspiring robotics engineer and AI/ML enthusiast, with a passion for creating impactful technologies. My current focus is on Generative Adversarial Networks (GANs), as I explore the power of machine learning to generate and manipulate data in innovative ways. I'm also deeply involved in robotics, working on projects like a micromouse and gesture recognition systems that blend my interests in both hardware and software. In addition to AI and robotics, I'm fascinated by space exploration (currently preparing for a mission to the dark side of the moon!), finance, and trading strategies. I’m always up for learning something new — whether it’s diving into computer vision, exploring deep learning, or figuring out how to make algorithms smarter and more efficient. When I’m not coding or building robots, you can find me rocking out on my guitar (I’m a Metallica and Guns N' Roses fan) or binge-watching the latest anime. I’m always excited to connect with like-minded individuals, share knowledge, and push the boundaries of what’s possible with AI and embedded systems!**
+- 👋 About Me
+Hi, I'm Naman Jain! I'm an aspiring robotics engineer and AI/ML enthusiast with a passion for creating impactful technologies. Right now, I'm focusing on Generative Adversarial Networks (GANs), exploring how machines can generate and manipulate data in creative ways.
+
+In addition to AI and robotics, I’m involved in projects like micromouse and gesture recognition systems, blending hardware and software. I’m also interested in space exploration (currently preparing for a mission to the dark side of the moon!), finance, and trading strategies.
+
+When I'm not coding or building robots, you'll find me rocking out on my guitar (a Metallica and Guns N' Roses fan) or binge-watching anime. Always excited to connect with like-minded people, share knowledge, and push the limits of what's possible with AI and embedded systems!
+
+
 
 - 📫 How to reach me **namjain06@gmail.com**
 
