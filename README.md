@@ -43,10 +43,4 @@ When I'm not coding or building robots, you'll find me rocking out on my **guita
 
 ---
 
-## 📈 GitHub Stats
-
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahmahn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahmahn&langs_count=8&layout=compact&theme=radical)
-
 ---
