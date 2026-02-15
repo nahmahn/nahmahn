@@ -21,7 +21,7 @@ When I'm not coding or building robots, you'll find me rocking out on my **guita
 
 ## 🚀 Current Projects
 
-- 🔭 I’m currently working on [NxtDevs](https://github.com/Epic021/NxtDevs_Project-)
+- 🔭 I’m currently working on [NxtDevs](https://github.com/nahmahn/NxtDevs)
 
 ---
 
