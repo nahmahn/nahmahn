@@ -8,22 +8,14 @@
 
 ## About Me
 
-Hi, I'm Naman Jain! I'm an aspiring robotics engineer and AI/ML enthusiast with a passion for creating impactful technologies.Currently building at the intersection of AI, robotics, and embedded systems. I'm exploring **Transformers**, **GANs**, and **encoders**, diving into their applications in fields like **deepfake detection**, **gesture recognition**, and **autonomous robotics**. From convolutional networks to reinforcement learning, I love turning ML concepts into real-world solutions — all while blending code, circuits, and creativity.
+Hi, I'm Naman Jain, an AI/ML engineer focused on building production-ready intelligent systems at the intersection of backend engineering, machine learning, and computer vision.
 
+I enjoy taking ML models beyond experimentation and turning them into scalable applications. My work spans FastAPI, distributed task processing, RAG and Graph-RAG, vector search, GPU microservices, and real-time systems, with a strong focus on building reliable backend infrastructure around AI.
 
-In addition to AI and robotics, I’m involved in projects like **micromouse** and **gesture recognition systems**, blending hardware and software. I’m also interested in ,**finance**, and **algorithmic trading strategies**.
-
-When I'm not coding or building robots, you'll find me rocking out on my **guitar** (a Metallica and Guns N' Roses fan) or binge-watching **anime**. Always excited to connect with like-minded people, share knowledge, and push the limits of what's possible with AI and embedded systems!
+On the ML side, I work with PyTorch, Transformers, CLIP, GANs, and computer vision, exploring applications ranging from virtual try-on and garment segmentation to deepfake detection and multimodal AI. I've also worked on deploying GPU-based inference pipelines and optimizing them for latency and cost.
 
 📫 How to reach me: [namjain06@gmail.com](mailto:namjain06@gmail.com)
 
----
-
-## 🚀 Current Projects
-
-- 🔭 I’m currently working on [NxtDevs](https://github.com/nahmahn/NxtDevs)
-
----
 
 ## 🧰 Languages and Tools
 
